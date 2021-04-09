@@ -113,9 +113,9 @@ section ul li {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-areas:
-  "top"
-  "middle"
-  "bottom";
+    "top"
+    "middle"
+    "bottom";
 }
 
 section h3 {
@@ -141,7 +141,7 @@ section div {
   justify-self: end;
   background-color: rgba(0, 0, 0, .1);
   border-radius: 1em 0 0 1em;
-  padding: 0.5em;
+  padding: .5em;
   margin: .5em 0 0;
   font-style: italic;
 }
@@ -149,7 +149,7 @@ section div {
 section div img {
   width: 1em;
   height: 1em;
-  margin-right: .5;
+  margin-right: .5rem;
 }
 
 section div strong {
